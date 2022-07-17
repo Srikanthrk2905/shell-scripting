@@ -3,5 +3,5 @@
 a=100
 b=1000
 
-hi=$a
-hifi=${b}times$a
+echo $a
+echo ${b}times$a
