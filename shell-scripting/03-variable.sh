@@ -1,7 +1,7 @@
 #!/bin/bash
 
 a=100
-b=random testing
+b=1000
 
-echo$a
-echo{$b}for DevOps practice
+hi=$a
+hifi=${b}times$a
