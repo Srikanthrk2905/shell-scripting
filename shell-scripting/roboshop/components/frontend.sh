@@ -1,3 +1,1 @@
-#!/bin/bash
-
-frontend.sh
+echo frontend component
